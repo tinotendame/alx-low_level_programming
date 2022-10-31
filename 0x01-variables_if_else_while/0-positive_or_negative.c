@@ -11,6 +11,12 @@
  */
 
 int main(void)
+/**
+ * int main-Entry Point
+ *
+ * return 0: (success)
+ *
+ */
 {
 	int n;
 

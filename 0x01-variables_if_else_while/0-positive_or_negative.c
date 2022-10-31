@@ -4,19 +4,13 @@
 #include <stdio.h>
 /* more headers goes there */
 /**
- * int main-Entry Point
+ * main-Entry Point
  *
- * retun: 0 (success)
+ * Return: Always 0 (Success)
  *
  */
 
 int main(void)
-/**
- * int main-Entry Point
- *
- * return 0: (success)
- *
- */
 {
 	int n;
 
